@@ -140,6 +140,13 @@ And some additional, less used options:
   _This is italic text_
 
   ~~Strikethrough~~
+  
+E inédito na próxima especificação do markdown...
+  *BGY*This text has yellow background and black foreground*BGY*
+  *BGR*This text has red background and white foreground*BGR*
+  *BGB*This text has black background and white foreground*BGB*
+  *UND*This text has underline*UND*
+  
 ```
 
 | iOS | Android
